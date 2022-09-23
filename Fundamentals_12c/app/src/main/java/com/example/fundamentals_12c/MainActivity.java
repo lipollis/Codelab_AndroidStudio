@@ -1,4 +1,5 @@
-package com.example.fundamentals_12_c2;
+package com.example.fundamentals_12c;
+
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

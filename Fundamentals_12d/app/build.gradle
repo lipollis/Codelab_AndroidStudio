@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.fundamentals_12_c2'
+    namespace 'com.example.fundamentals_12d'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.fundamentals_12_c2"
+        applicationId "com.example.fundamentals_12d"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -30,7 +30,6 @@ android {
 
 dependencies {
 
-    //noinspection GradleCompatible
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
     testImplementation 'junit:junit:4.13.2'
