@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send">Send</string>
+    <string name="button_main">Send</string>
+    <string name="text_header">Mensagem recebida</string>
+    <string name="editText_main" />
+</resources>
